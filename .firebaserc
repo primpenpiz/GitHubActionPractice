@@ -1,8 +1,6 @@
 {
   "projects": {
-    "default": "cicd1-4a56f",
-    "Learning": "cicd1-4a56f"
-  },
-  "targets": {},
-  "etags": {}
+    "Learning": "cicd1-4a56f",
+    "default": "cicd1-4a56f"
+  }
 }
